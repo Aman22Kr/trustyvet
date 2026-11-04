@@ -1,0 +1,6 @@
+{
+  "name": "TrustyVet - 24/7 Companion Animal Care & Veterinary Hospitals",
+  "description": "TrustyVet is a leading network of 24/7 multi-specialty veterinary hospitals and clinics delivering compassionate, international-standard emergency care, surgery, diagnostics, and preventive medicine for companion animals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
